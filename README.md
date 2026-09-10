@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey, I'm Blake (@blakedata727)
 
-<!--
-**blakedata727/blakedata727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer based in Paris. I build web apps, dashboards, and design systems for freelance clients. Mostly focused on React ecosystem performance and accessibility.
 
-Here are some ideas to get you started:
+### Tech I use daily
+- **Core:** TypeScript, React, Next.js
+- **Styling & Tooling:** TailwindCSS, Vite, Vitest, Playwright
+- **Backend basics:** Node.js, REST APIs, Supabase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently doing
+- Freelancing on frontend contracts
+- Exploring React Server Components edge cases
+- Improving bundle sizes and Core Web Vitals on existing client apps
+
+### Connect
+- Email: blake.dev@proton.me
+- Twitter/X: [@blakedata727](https://twitter.com/blakedata727)
+- LinkedIn: [in/blakedata727](https://linkedin.com/in/blakedata727)
